@@ -1,0 +1,4 @@
+pkg
+src
+aosc-os-pvr
+*.pkg.tar.zst
